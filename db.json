@@ -26,12 +26,5 @@
             "SBU_TGL_PERMOHONAN": "12/18/17",
             "SBU_TGL_HABIS": "1/4/21"
         }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
